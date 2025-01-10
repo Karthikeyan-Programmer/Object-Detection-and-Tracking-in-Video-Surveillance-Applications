@@ -1,0 +1,5 @@
+Edges Shape: (375, 1242)
+Optical Flow Shape: (375, 1242, 2)
+Mean Color: [96.19127214 94.28697799 88.83207729]
+Standard Deviation Color: [90.26584849 90.80450017 92.35078148]
+Texture: 4266746.5
