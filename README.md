@@ -1,0 +1,1 @@
+The objective of the title "Object Detection and Tracking in Video Surveillance Applications" is to address the development, implementation, and enhancement of technologies and methodologies for detecting and tracking objects of interest in video surveillance systems. Below is a breakdown of the typical objectives under this topic:
